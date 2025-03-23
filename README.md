@@ -40,16 +40,6 @@ Program ini adalah aplikasi sederhana untuk mengelola daftar kontak. Pengguna da
 
 ---
 
-## 📂 **Struktur Folder**  
-```
-📁 manajemen-kontak
-│── kontak.py       # File utama program
-│── contacts.pkl    # File penyimpanan data kontak (otomatis dibuat)
-│── README.md       # Dokumentasi proyek
-```
-
----
-
 ## 🎯 **Cara Menggunakan**  
 1️⃣ **Pilih opsi dari menu utama**  
 2️⃣ **Masukkan data kontak** jika ingin menambah kontak  
