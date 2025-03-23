@@ -49,9 +49,3 @@ Program ini adalah aplikasi sederhana untuk mengelola daftar kontak. Pengguna da
 
 ---
 
-## 📜 **Lisensi**  
-Proyek ini dibuat untuk tugas praktikum kecerdasan buatan. Anda dapat menggunakan dan memodifikasinya sesuai kebutuhan.  
-
-📌 **Happy Coding! 😊**  
-
----
